@@ -36,13 +36,19 @@ Maghreb
 Kategoria "Technologie", pytania dla: Daniel
 Najpopularniejszym rozproszonym systemem kontroli wersji jest:
 Git
+
 System operacyjny, którego logiem jest "zielony robot" to:
 Android
+
 Hostingowy serwis internetowy przeznaczony do projektów wykorzystujących Git, przejęty w 2018 roku przez Microsoft to:
 Github
+
 Rodzaj portu pełniącego rolę gniazda do ładowania smartfonów, do którego wtyk można włożyć dowolną stroną, to:
 USB-C, Lightning
+
 Darmowy, oparty na licencji GPL-2 or GPL-3, nie-chmurowy manager haseł to:
 keepass 
+
 Technologia, której nazwa pochodzi od duńskiego króla Haralda Sinozębego to:
 Bluetooth
+
