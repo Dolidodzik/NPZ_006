@@ -1,22 +1,4 @@
-Narzędzia pracy zespołowej (NPZ) – quiz
-
-
-Kategoria "Matematyka", pytania dla ...:
-20 + 4 * 4 =
-
-sin²α + cos²α =
-
-2 * π ≈
-
-cos(90°) =
-
-6! = 
-
-ln(1) =
-
-
-
-Kategoria "Filmy", pytania dla ...:
+Kategoria "Filmy", pytania dla: Aleksandra
 Rok premiery pierwszego filmu "Shrek" to:
 
 Tytuł ostatniego filmu z Indianą Jonesem to:
@@ -31,7 +13,7 @@ Film z 1988r., w którym aby przyzwać lub przegonić głównego bohatera, nale�
 
 
 
-Kategoria "Geografia", pytania dla ...:
+Kategoria "Geografia", pytania dla: Szymon
 Najdłuższa rzeka w Polsce:
 
 Stan w północno-zachodniej części Ameryki Północnej, będący eksklawą Stanów Zjednoczonych to:
@@ -46,7 +28,7 @@ Wspólna nazwa określająca kraje północno-zachodniej Afryki, m.in. Maroko, A
 
 
 
-Kategoria "Technologie", pytania dla ...:
+Kategoria "Technologie", pytania dla: Daniel
 Najpopularniejszym rozproszonym systemem kontroli wersji jest:
 
 System operacyjny, którego logiem jest "zielony robot" to:
@@ -58,4 +40,3 @@ Rodzaj portu pełniącego rolę gniazda do ładowania smartfonów, do którego w
 Darmowy, oparty na licencji GPL-2 or GPL-3, nie-chmurowy manager haseł to:
 
 Technologia, której nazwa pochodzi od duńskiego króla Haralda Sinozębego to:
-
